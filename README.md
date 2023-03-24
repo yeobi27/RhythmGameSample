@@ -1,2 +1,2 @@
 # RhythmGameSample
-StudySample
+Study Sample
